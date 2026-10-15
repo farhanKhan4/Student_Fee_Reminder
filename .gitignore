@@ -1,0 +1,13 @@
+# Temporary and generated files
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
+
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Local IDE settings
+.vscode/
